@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "logdemo.Main",
+            "projectName": "project_83312807"
+        },
+        {
+            "type": "java",
+            "name": "Start",
+            "request": "launch",
+            "mainClass": "Start",
+            "projectName": "com_9282056f"
+        },
+        6,
+        "hhghgghgh"
+    ]
+}
