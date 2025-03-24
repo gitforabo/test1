@@ -1,6 +1,8 @@
 package logdemo;
 
-public class second {
-    
-    
+public class Second {
+
+    public Second() {
+        System.out.println("created new object Second");
+    }
 }

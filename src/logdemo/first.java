@@ -1,5 +1,7 @@
 package logdemo;
 
-public class first {
-    
+public class First {
+    First() {
+        System.out.println("created new object First");
+    }
 }
