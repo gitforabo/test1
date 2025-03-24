@@ -6,5 +6,7 @@ public class Main {
         Second second = new Second();
 
         System.out.println("Hello");
+
+        System.out.println("otkat");
     }
 }
