@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 enter file1
 add revert commit
+=======
+enter file1
+>>>>>>> parent of 4f5e573 (add file2)
