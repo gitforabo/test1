@@ -1,4 +1,4 @@
 enter branch1 file1
-=======
+
 changed on branch1
 
